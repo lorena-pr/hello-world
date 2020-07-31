@@ -56,7 +56,7 @@ Esto vicia!
 | @xpuig | Xavi | Puig | Por definir
 | @FrancisRS92 | Francisco | Ruiz | [First Proyect](https://github.com/FrancisRS92/Primera-prueba)
 | @rubenpa8678 | Ruben | Pajon | [Hello-World Project - Github](https://guides.github.com/activities/hello-world)
-| @lorena-pr | Lorena | Ponce | [Galaxy project - open science] (https://github.com/galaxyproject/galaxy) |
+| @lorena-pr | Lorena | Ponce | [Galaxy project - open science](https://github.com/galaxyproject/galaxy) |
 
 # Referencias
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)
